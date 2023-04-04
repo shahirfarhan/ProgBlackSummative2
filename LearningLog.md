@@ -6,3 +6,7 @@ do next is to collaborate with another contributor to make some sprites and star
 
 Entry 2:
 Started the game by making the background moves and added the spaceship sprite, which can move left and right when left or right keys are pressed. Learned how to use Input.GetAxisRaw in Unity. Next step is to ensure that the spaceship sprite stays in the frame of the game and to also generate asteroid (obstacle) and fuel at random location.
+
+Entry 3:
+Made some minor adjustment where instead of making the game vertically, changed it horizontally. Worked on making the spaceship stays within the screen boundary. Also worked on generating asteroids at random position. I have learned on how to work on the boundary of the main camera. Next, need to generate fuel sprite (just exactly same as asteroids) and what happened when the spaceship and asteroid collide with each other.
+

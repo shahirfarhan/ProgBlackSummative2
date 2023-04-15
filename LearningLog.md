@@ -10,3 +10,5 @@ Started the game by making the background moves and added the spaceship sprite, 
 Entry 3:
 Made some minor adjustment where instead of making the game vertically, changed it horizontally. Worked on making the spaceship stays within the screen boundary. Also worked on generating asteroids at random position. I have learned on how to work on the boundary of the main camera. Next, need to generate fuel sprite (just exactly same as asteroids) and what happened when the spaceship and asteroid collide with each other.
 
+Entry 4:
+Worked on generating fuel sprite at random location, added score on the upper left side of the game and worked on making the fuel sprite disappear on collision with the spaceship. Gained more understanding on how to work with collider. Next need to work on fuel bar (keep on decreasing and increase once the spaceship gain more fuel).

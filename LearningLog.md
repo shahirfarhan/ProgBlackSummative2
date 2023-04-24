@@ -12,3 +12,6 @@ Made some minor adjustment where instead of making the game vertically, changed 
 
 Entry 4:
 Worked on generating fuel sprite at random location, added score on the upper left side of the game and worked on making the fuel sprite disappear on collision with the spaceship. Gained more understanding on how to work with collider. Next need to work on fuel bar (keep on decreasing and increase once the spaceship gain more fuel).
+
+Entry 5:
+Fixed some bug on the boundary of the spaceship (to keep it within the frame). Then added the alien sprite and make it follows the spaceship (as if it is chasing it). Changed to new sprite, where it is now an animation .Also worked on the fuel bar, where few features has been added e.g., it keeps on decreasing throughout the game and gained fuel when the spaceship collects the fuel. Next, need to work on how the game ends (the game over).

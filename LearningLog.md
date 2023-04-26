@@ -15,3 +15,6 @@ Worked on generating fuel sprite at random location, added score on the upper le
 
 Entry 5:
 Fixed some bug on the boundary of the spaceship (to keep it within the frame). Then added the alien sprite and make it follows the spaceship (as if it is chasing it). Changed to new sprite, where it is now an animation .Also worked on the fuel bar, where few features has been added e.g., it keeps on decreasing throughout the game and gained fuel when the spaceship collects the fuel. Next, need to work on how the game ends (the game over).
+
+Entry 6:
+Worked on the game over screen (when the spaceship hits the asteroid or when run out of fuel). Also worked on the logic e.g., the score, the fuel and the spaceship should froze when the game is over. Also added a main menu page. Learned about creating different scenes in Unity and also how TMP button is different from normal button. Pretty much how i want the game to be now. 
